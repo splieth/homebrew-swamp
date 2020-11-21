@@ -1,8 +1,8 @@
 class Swamp < Formula
   desc "Teh AWS profile manager"
   homepage "https://github.com/felixb/swamp"
-  url "https://github.com/felixb/swamp/archive/v0.11.0.tar.gz"
-  version "0.11.0"
+  url "https://github.com/felixb/swamp/archive/v0.12.0.tar.gz"
+  version "0.12.0"
   sha256 "58c517f21160e19015d98a758a94bf8ebfc390cf1b3532c360cc890378ad5163"
   head "https://github.com/felixb/swamp.git"
 
