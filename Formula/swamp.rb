@@ -3,7 +3,7 @@ class Swamp < Formula
   homepage "https://github.com/felixb/swamp"
   url "https://github.com/felixb/swamp/archive/v0.12.0.tar.gz"
   version "0.12.0"
-  sha256 "58c517f21160e19015d98a758a94bf8ebfc390cf1b3532c360cc890378ad5163"
+  sha256 "1a4fa47aa45fcfaf53fcaca58820fd770dc8b3312a808b7addb5c1887e6b07d0"
   head "https://github.com/felixb/swamp.git"
 
   depends_on "go" => :build
