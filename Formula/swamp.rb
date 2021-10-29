@@ -1,9 +1,9 @@
 class Swamp < Formula
   desc "Teh AWS profile manager"
   homepage "https://github.com/felixb/swamp"
-  url "https://github.com/felixb/swamp/archive/v0.12.0.tar.gz"
-  version "0.12.0"
-  sha256 "1a4fa47aa45fcfaf53fcaca58820fd770dc8b3312a808b7addb5c1887e6b07d0"
+  url "https://github.com/felixb/swamp/archive/v0.14.0.tar.gz"
+  version "0.14.0"
+  sha256 "e83e2fed018d5a66a8e6a79ad1fa9433815d0cd67aa81754bec361dea8a17b2d"
   head "https://github.com/felixb/swamp.git"
 
   depends_on "go" => :build
